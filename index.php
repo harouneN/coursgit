@@ -6,7 +6,7 @@
 // and Romain Bourdon <rromain@romainbourdon.com>
 // and Hervé Leclerc <herve.leclerc@alterway.fr>
 // Icons by Mark James <http://www.famfamfam.com/lab/icons/silk/>
-// Version 2.5 -> 3.2.9 by Dominique Ottello alias Otomatic
+// Version 2.5 -> 3.2.9 by Dominique Ottello alias Otomaticrffr frfrfrpfr^p^pfr pofroprfp frofrio
 
 $server_dir = "../";
 
