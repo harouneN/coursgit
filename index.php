@@ -13,7 +13,7 @@ $server_dir = "../";
 require $server_dir.'scripts/config.inc.php';
 require $server_dir.'scripts/wampserver.lib.php';
 
-//**** Scroll lists parameters ****
+//**** Scroll lists parameters **** ihojhhohçhçh ç uhhçiohçhç_hhç
 //** Based on an idea by Panagiotis E. Papazoglou
 //General scrolling (on or off) is controlled by Wampserver parameter 'ScrollListsHomePage'
 // via Right-Click -> Wamp Settings -> Allow scrolling of lists on home page
